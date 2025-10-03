@@ -1,1 +1,13 @@
 
+
+-Set up node Project as described in the file 
+-Developed a simple Frontend with the possibility to create users and polls 
+-Data is dummie-data stored in stores.js at first 
+
+-Added the @CrossOrigin in the Backend 
+
+-Added api.js to connect the frontend with the backend 
+-Replaced store.js so it loads data from the Server instead of Dummie-data
+-Problem with not live updating votes in the frontend -->fixed it 
+-Deployed svelte Project into the current SpringBoot-Project 
+-When starting Springboot-Project the Svelte Project can now be seen under http://localhost:8080/
